@@ -1,5 +1,5 @@
-# Oneliner Collections
-Simple script collections for chaining the awesome tools
+# Simple Shell Script Collections
+Simple shell script collections for chaining the awesome tools
 - ## Subdomain TakeOver
 
 ```
