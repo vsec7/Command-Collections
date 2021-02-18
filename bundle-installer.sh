@@ -38,7 +38,7 @@ go get -u github.com/tomnomnom/httprobe
 echo "[+] Installing Gron (@tomnomnom)"
 go get -u github.com/tomnomnom/gron
 
-echo "[+] Installing Anti Bbroken Url (@tomnomnom)"
+echo "[+] Installing Anti Broken Url (@tomnomnom)"
 go get -u github.com/tomnomnom/hacks/anti-burl
 
 echo "[+] Installing Comb (@tomnomnom)"
