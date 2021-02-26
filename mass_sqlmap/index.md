@@ -33,8 +33,10 @@ sed -n 'fromLine,ToLinep' sqlmap.txt
 ```
 
 Thanks :)
+
 Ve
 
 Follow me <a href="https://twitter.com/Verry__D">@Verry__D</a>
+
 Subscribe Infosec Telegram Channel <a href="https://t.me/sec7or">Tools & Writeups</a>
 
