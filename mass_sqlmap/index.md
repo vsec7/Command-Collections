@@ -29,7 +29,7 @@ grep -n "available databases" sqlmap.txt
 
 ** Slice Output with sed **
 ```
-sed -n 'fromLine,ToLinep' sqlmap.txt
+sed -n '147,159p' sqlmap.txt
 ```
 * slice from line 147 to line 159 with sed
 
