@@ -18,10 +18,7 @@ sudo wget https://github.com/Findomain/Findomain/releases/download/3.0.1/findoma
 sudo chmod +x /usr/bin/findomain
 
 echo "[+] Installing DalFox (@hahwul)"
-wget -q https://github.com/hahwul/dalfox/releases/download/v2.3.0/dalfox_2.3.0_linux_amd64.tar.gz
-tar -xvf dalfox_2.3.0_linux_amd64.tar.gz
-chmod +x dalfox
-mv dalfox ~/go/bin
+GO111MODULE=on go get -u github.com/hahwul/dalfox/v2
 
 echo "[+] Installing Assetfinder (@tomnomnom)"
 go get -u github.com/tomnomnom/assetfinder
